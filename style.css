@@ -1,0 +1,215 @@
+@charset "UTF-8";
+@import url("http://fonts.googleapis.com/earlyaccess/cwtexyen.css");
+
+body{
+	margin:0;
+	font: 40px 'cwTeXYen', sans-serif;
+}
+section{
+	display:block;
+	height:1500px;
+	background:#D3F7EF;
+	padding: 60px;
+	padding-left: 180px;
+}
+#one{
+	background:#040205;
+	height:1200px;
+	color:white;
+}
+#two{
+	background:#7DE2CA;	
+}
+#three{
+	background:#FCDC00;
+	height:800px;
+}
+#four{
+	background:#0AC9FF;
+	height:1100px;
+}
+#five{
+	background:#FF8F7D;
+	height:610px;
+}
+nav{
+	position:fixed;
+	
+}
+nav a{
+	display: block;
+	font-size: 25px;
+	color: white;
+	text-align: left;
+	background-color: rgba(0,0,0,0.73); 
+	padding: 10px;	
+	margin: 3px;
+    text-decoration:none;
+   
+}
+
+nav a:hover{
+	color:#FFE80E;
+}
+
+nav a:active{
+	
+	background-color:white;
+	
+}
+
+footer{
+height:100px;
+}
+
+img.small{
+	width:90px;
+	height:90px;
+}
+
+img.big{
+	width: 1200px;
+	height: 500px;
+	opacity:0.9;
+	
+	
+}
+
+#home_pic{
+	
+	margin-top: 50px;
+}
+
+#social_media{
+	
+	position: absolute;
+	margin-left:580px;
+	margin-top: 10px;
+	
+}
+
+#align_center{
+	width: 600px;
+	margin-left:250px;
+	}
+
+
+#head_background{
+
+	margin-left: 250px;
+	background: #E0EAFF;
+	height: 50px;
+	width: 600px;
+	text-align: center;
+	color: black;
+	padding-top:25px;
+	font-size: 28px;
+	
+}
+
+#head_background2{
+
+	margin-left: 250px;
+	margin-top: 200px;
+	background: #E0EAFF;
+	height: 50px;
+	width: 600px;
+	text-align: center;
+	color: black;
+	padding-top:25px;
+	font-size: 28px;
+	
+}
+
+
+#co-company {
+	
+	border-radius: 20px;
+	margin-top:50px;
+	background:#FFFFFF;
+	
+}
+
+
+#co-company img{
+	
+	width:1200px;
+	
+}
+
+
+#home_word{
+	text-align:center;
+	font-size:30px;
+	-webkit-animation-name: fadeIn; /*动画名称*/
+	-webkit-animation-duration: 3s; /*动画持续时间*/
+	-webkit-animation-iteration-count: 1; /*动画次数*/
+	-webkit-animation-delay: 0s; /*延迟时间*/
+	
+}
+
+#two p{
+	margin:30px;
+	font-size:24px;
+}
+
+
+#story{
+	
+	border-radius:30px;
+	background:#FFFFFF;
+	overflow:scroll;
+	width:1000px;
+	height:500px;
+	margin-top:50px;
+	margin-left:50px;
+	
+}
+
+#youtube{
+	
+	margin-top:50px;
+	margin-left:150px;
+	width:800px;
+	height:450px;
+}
+
+.flex-caption {
+  width: 96%;
+  padding: 2%;
+  left: 0;
+  bottom: 0;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.flexslider{
+	
+	margin-top:50px;
+	margin-right:100px;
+}
+
+#how_to_getthere{
+	
+	font-size:25px;
+	margin-top:50px;
+}
+
+form{
+	margin-left:240px;
+	font-size:25px;
+	
+}
+
+#button{
+	
+	margin-left:200px;
+	width:200px;
+	font-size:50px;
+	
+	
+}
+
